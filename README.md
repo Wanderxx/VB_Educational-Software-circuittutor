@@ -1,10 +1,6 @@
 Educational-Software-circuittutor
 =================================
 
-This is a private project. Source code can't be published here. You may download software from the website and run it.
+This is a private project. Source code can't be published here. You may watch the demo I made on Youtube.
 
-Website: dev.circuittutor.com 
-
-My instructor id: xwang265@asu.edu password: wxx131415508
-
-normal test id: student password: lovecircuits
+https://www.youtube.com/watch?v=H833B-qonBQ 
